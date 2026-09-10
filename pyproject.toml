@@ -1,0 +1,8 @@
+[project]
+name = "hrpilot-mcp"
+version = "1.0.0"
+
+dependencies = [
+    "fastmcp",
+    "uvicorn"
+]
