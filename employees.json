@@ -1,0 +1,502 @@
+{
+  "1001": {
+    "name": "Tanvi Das",
+    "department": "Operations",
+    "manager": "Kevin Hall"
+  },
+  "1002": {
+    "name": "Rishabh Khatri",
+    "department": "Engineering",
+    "manager": "John Smith"
+  },
+  "1003": {
+    "name": "Anmol Sethi",
+    "department": "Engineering",
+    "manager": "Peter Wright"
+  },
+  "1004": {
+    "name": "Muskan Joshi",
+    "department": "Engineering",
+    "manager": "James King"
+  },
+  "1005": {
+    "name": "Rahul Nagal",
+    "department": "Operations",
+    "manager": "George Scott"
+  },
+  "1006": {
+    "name": "Vivek Chauhan",
+    "department": "Sales",
+    "manager": "Alicia Gomez"
+  },
+  "1007": {
+    "name": "Shubham Lal",
+    "department": "Engineering",
+    "manager": "Olivia Young"
+  },
+  "1008": {
+    "name": "Samaira Sethi",
+    "department": "Support",
+    "manager": "Robert White"
+  },
+  "1009": {
+    "name": "Meenakshi Saini",
+    "department": "Finance",
+    "manager": "James King"
+  },
+  "1010": {
+    "name": "Esha Vora",
+    "department": "Sales",
+    "manager": "Daniel Clark"
+  },
+  "1011": {
+    "name": "Tushar Gupta",
+    "department": "Support",
+    "manager": "James King"
+  },
+  "1012": {
+    "name": "Varun Tripathi",
+    "department": "HR",
+    "manager": "Laura Green"
+  },
+  "1013": {
+    "name": "Ananya Kapoor",
+    "department": "Operations",
+    "manager": "Sarah Jones"
+  },
+  "1014": {
+    "name": "Vikram Nagal",
+    "department": "Sales",
+    "manager": "Peter Wright"
+  },
+  "1015": {
+    "name": "Pooja Agarwal",
+    "department": "IT",
+    "manager": "Nina Adams"
+  },
+  "1016": {
+    "name": "Om Reddy",
+    "department": "IT",
+    "manager": "Kevin Hall"
+  },
+  "1017": {
+    "name": "Surbhi Pillai",
+    "department": "HR",
+    "manager": "David Lee"
+  },
+  "1018": {
+    "name": "Rahul Patel",
+    "department": "Finance",
+    "manager": "Priya Nair"
+  },
+  "1019": {
+    "name": "Aditi Verma",
+    "department": "Operations",
+    "manager": "Rachel Martin"
+  },
+  "1020": {
+    "name": "Tushar Mehta",
+    "department": "Marketing",
+    "manager": "Alicia Gomez"
+  },
+  "1021": {
+    "name": "Yamini Verma",
+    "department": "Finance",
+    "manager": "Michael Brown"
+  },
+  "1022": {
+    "name": "Sneha Kapoor",
+    "department": "Finance",
+    "manager": "Peter Wright"
+  },
+  "1023": {
+    "name": "Dev Bose",
+    "department": "Engineering",
+    "manager": "Henry Moore"
+  },
+  "1024": {
+    "name": "Lavanya Jain",
+    "department": "Marketing",
+    "manager": "Robert White"
+  },
+  "1025": {
+    "name": "Simran Roy",
+    "department": "Marketing",
+    "manager": "Robert White"
+  },
+  "1026": {
+    "name": "Shivam Suri",
+    "department": "Finance",
+    "manager": "James King"
+  },
+  "1027": {
+    "name": "Tejas Tiwari",
+    "department": "HR",
+    "manager": "David Lee"
+  },
+  "1028": {
+    "name": "Jatin Dutta",
+    "department": "Sales",
+    "manager": "George Scott"
+  },
+  "1029": {
+    "name": "Ashish Pandey",
+    "department": "Operations",
+    "manager": "John Smith"
+  },
+  "1030": {
+    "name": "Ritika Bansal",
+    "department": "IT",
+    "manager": "Michael Brown"
+  },
+  "1031": {
+    "name": "Nandini Das",
+    "department": "Engineering",
+    "manager": "Michael Brown"
+  },
+  "1032": {
+    "name": "Rudra Reddy",
+    "department": "Support",
+    "manager": "Robert White"
+  },
+  "1033": {
+    "name": "Rahul Pandey",
+    "department": "Support",
+    "manager": "Sarah Jones"
+  },
+  "1034": {
+    "name": "Rudra Joshi",
+    "department": "IT",
+    "manager": "Kevin Hall"
+  },
+  "1035": {
+    "name": "Sachin Singh",
+    "department": "Operations",
+    "manager": "Henry Moore"
+  },
+  "1036": {
+    "name": "Ritika Singh",
+    "department": "Finance",
+    "manager": "Kevin Hall"
+  },
+  "1037": {
+    "name": "Harshit Rao",
+    "department": "Engineering",
+    "manager": "Rachel Martin"
+  },
+  "1038": {
+    "name": "Naman Suri",
+    "department": "Operations",
+    "manager": "John Smith"
+  },
+  "1039": {
+    "name": "Arjun Tiwari",
+    "department": "IT",
+    "manager": "Alicia Gomez"
+  },
+  "1040": {
+    "name": "Rhea Sharma",
+    "department": "Engineering",
+    "manager": "James King"
+  },
+  "1041": {
+    "name": "Pallavi Bajaj",
+    "department": "Engineering",
+    "manager": "Nina Adams"
+  },
+  "1042": {
+    "name": "Disha Goyal",
+    "department": "Sales",
+    "manager": "George Scott"
+  },
+  "1043": {
+    "name": "Aditya Joshi",
+    "department": "Support",
+    "manager": "George Scott"
+  },
+  "1044": {
+    "name": "Dhruv Sharma",
+    "department": "Marketing",
+    "manager": "Kevin Hall"
+  },
+  "1045": {
+    "name": "Amit Saxena",
+    "department": "HR",
+    "manager": "James King"
+  },
+  "1046": {
+    "name": "Esha Reddy",
+    "department": "Support",
+    "manager": "Michael Brown"
+  },
+  "1047": {
+    "name": "Lavanya Saxena",
+    "department": "Sales",
+    "manager": "Laura Green"
+  },
+  "1048": {
+    "name": "Jiya Sethi",
+    "department": "Finance",
+    "manager": "Daniel Clark"
+  },
+  "1049": {
+    "name": "Ashish Verma",
+    "department": "Support",
+    "manager": "Henry Moore"
+  },
+  "1050": {
+    "name": "Sanya Bharadwaj",
+    "department": "HR",
+    "manager": "Michael Brown"
+  },
+  "1051": {
+    "name": "Rajat Sethi",
+    "department": "Engineering",
+    "manager": "Kevin Hall"
+  },
+  "1052": {
+    "name": "Rahul Shah",
+    "department": "HR",
+    "manager": "Olivia Young"
+  },
+  "1053": {
+    "name": "Esha Mishra",
+    "department": "Operations",
+    "manager": "Kevin Hall"
+  },
+  "1054": {
+    "name": "Siddharth Gupta",
+    "department": "Finance",
+    "manager": "Olivia Young"
+  },
+  "1055": {
+    "name": "Raj Tiwari",
+    "department": "Operations",
+    "manager": "George Scott"
+  },
+  "1056": {
+    "name": "Hitesh Puri",
+    "department": "Sales",
+    "manager": "Daniel Clark"
+  },
+  "1057": {
+    "name": "Tanya Mishra",
+    "department": "Marketing",
+    "manager": "James King"
+  },
+  "1058": {
+    "name": "Sanvi Vora",
+    "department": "Sales",
+    "manager": "Rachel Martin"
+  },
+  "1059": {
+    "name": "Aarav Dutta",
+    "department": "Sales",
+    "manager": "Peter Wright"
+  },
+  "1060": {
+    "name": "Deepak Gupta",
+    "department": "IT",
+    "manager": "Henry Moore"
+  },
+  "1061": {
+    "name": "Aman Kumar",
+    "department": "Finance",
+    "manager": "Olivia Young"
+  },
+  "1062": {
+    "name": "Anmol Bose",
+    "department": "Support",
+    "manager": "Sophia Patel"
+  },
+  "1063": {
+    "name": "Alisha Lal",
+    "department": "HR",
+    "manager": "Laura Green"
+  },
+  "1064": {
+    "name": "Anushka Agarwal",
+    "department": "Finance",
+    "manager": "George Scott"
+  },
+  "1065": {
+    "name": "Rohan Kumar",
+    "department": "Sales",
+    "manager": "Emma Wilson"
+  },
+  "1066": {
+    "name": "Prateek Bansal",
+    "department": "Support",
+    "manager": "Emma Wilson"
+  },
+  "1067": {
+    "name": "Kunal Tripathi",
+    "department": "Marketing",
+    "manager": "George Scott"
+  },
+  "1068": {
+    "name": "Aanchal Chauhan",
+    "department": "Marketing",
+    "manager": "Nina Adams"
+  },
+  "1069": {
+    "name": "Kavya Sharma",
+    "department": "HR",
+    "manager": "Kevin Hall"
+  },
+  "1070": {
+    "name": "Muskan Tripathi",
+    "department": "Engineering",
+    "manager": "Robert White"
+  },
+  "1071": {
+    "name": "Khushi Shah",
+    "department": "Operations",
+    "manager": "Emma Wilson"
+  },
+  "1072": {
+    "name": "Shreya Nair",
+    "department": "IT",
+    "manager": "Daniel Clark"
+  },
+  "1073": {
+    "name": "Nitin Sen",
+    "department": "Operations",
+    "manager": "Kevin Hall"
+  },
+  "1074": {
+    "name": "Pallavi Das",
+    "department": "Sales",
+    "manager": "Sarah Jones"
+  },
+  "1075": {
+    "name": "Tanya Mohan",
+    "department": "Support",
+    "manager": "Henry Moore"
+  },
+  "1076": {
+    "name": "Priya Mehta",
+    "department": "Finance",
+    "manager": "Robert White"
+  },
+  "1077": {
+    "name": "Arjun Malhotra",
+    "department": "Marketing",
+    "manager": "Alicia Gomez"
+  },
+  "1078": {
+    "name": "Kritika Roy",
+    "department": "Finance",
+    "manager": "Daniel Clark"
+  },
+  "1079": {
+    "name": "Lavanya Nagal",
+    "department": "HR",
+    "manager": "Daniel Clark"
+  },
+  "1080": {
+    "name": "Mohit Das",
+    "department": "HR",
+    "manager": "John Smith"
+  },
+  "1081": {
+    "name": "Divya Bose",
+    "department": "Sales",
+    "manager": "Kevin Hall"
+  },
+  "1082": {
+    "name": "Kunal Iyer",
+    "department": "Operations",
+    "manager": "Robert White"
+  },
+  "1083": {
+    "name": "Abhishek Khatri",
+    "department": "Engineering",
+    "manager": "Robert White"
+  },
+  "1084": {
+    "name": "Muskan Madan",
+    "department": "Finance",
+    "manager": "Henry Moore"
+  },
+  "1085": {
+    "name": "Abhishek Arora",
+    "department": "Support",
+    "manager": "Robert White"
+  },
+  "1086": {
+    "name": "Ujjwal Shah",
+    "department": "Marketing",
+    "manager": "Peter Wright"
+  },
+  "1087": {
+    "name": "Vansh Khanna",
+    "department": "Finance",
+    "manager": "Peter Wright"
+  },
+  "1088": {
+    "name": "Ira Mehta",
+    "department": "Engineering",
+    "manager": "Sarah Jones"
+  },
+  "1089": {
+    "name": "Aditya Joshi",
+    "department": "Support",
+    "manager": "Nina Adams"
+  },
+  "1090": {
+    "name": "Prakhar Goel",
+    "department": "Sales",
+    "manager": "Kevin Hall"
+  },
+  "1091": {
+    "name": "Kritika Arora",
+    "department": "Engineering",
+    "manager": "Sarah Jones"
+  },
+  "1092": {
+    "name": "Meenakshi Saxena",
+    "department": "IT",
+    "manager": "James King"
+  },
+  "1093": {
+    "name": "Raj Suri",
+    "department": "Operations",
+    "manager": "Laura Green"
+  },
+  "1094": {
+    "name": "Rhea Nair",
+    "department": "Finance",
+    "manager": "Nina Adams"
+  },
+  "1095": {
+    "name": "Shivam Nair",
+    "department": "Operations",
+    "manager": "David Lee"
+  },
+  "1096": {
+    "name": "Dev Chauhan",
+    "department": "Sales",
+    "manager": "Kevin Hall"
+  },
+  "1097": {
+    "name": "Mitali Sharma",
+    "department": "Finance",
+    "manager": "Sarah Jones"
+  },
+  "1098": {
+    "name": "Dhruv Srivastava",
+    "department": "IT",
+    "manager": "Olivia Young"
+  },
+  "1099": {
+    "name": "Khushi Khanna",
+    "department": "Operations",
+    "manager": "Sarah Jones"
+  },
+  "1100": {
+    "name": "Muskan Saxena",
+    "department": "Support",
+    "manager": "Robert White"
+  }
+}
